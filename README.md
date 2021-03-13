@@ -1,5 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on large scale backend web applications.
+- 🌱 I’m currently learning Docker, Kubernetes, and Go.
+- 📫 How to reach me: My handle is sharifmamun almost for all popular emails/social medias/services.
 
+Happy coding!
 <!--
 **sharifmamun/sharifmamun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
