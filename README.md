@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on large scale backend web applications.
 - 🌱 I’m currently learning Docker, Kubernetes, and Go.
-- 📫 How to reach me: My handle is sharifmamun almost for all popular emails/social medias/services.
+- 📫 How to reach me: My handle is sharifmamun for almost all popular emails/social medias/services.
 
 Happy coding!
 <!--
