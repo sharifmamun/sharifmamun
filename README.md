@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 🔭 Working on large scale Data & Analytics backend web applications.
-- 🔭 Working with Databricks, Apache Spark, Azure Synapse, and SQL.
-- 🌱 Learning ~~Docker~~, Kubernetes, Helm, and Go.
+- 🔭 Working on large scale distributed systems.
+- 🔭 Working with ~~Docker~~, Kubernetes, Helm, and Go.
 - 📫 How to reach me: My handle is sharifmamun for almost all popular emails/social medias/services.
 
 Happy coding!
