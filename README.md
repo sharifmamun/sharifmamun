@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 Working on large scale distributed systems.
-- 🔭 Working with ~~Docker~~, Kubernetes, Helm, and Go.
+- 🌱 I’m currently learning Rust.
+- 🔭 Working with ~~Docker~~, Akka, Kafka, PKI, Kubernetes, Helm.
 - 📫 How to reach me: My handle is sharifmamun for almost all popular emails/social medias/services.
 
 Happy coding!
