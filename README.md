@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 Working on large scale distributed systems.
-- 🌱 I’m currently learning Rust.
-- 🔭 Working with ~~Docker~~, Akka, Kafka, PKI, Kubernetes, Helm.
+- 🌱 I’m currently learning machine learning algorithms and models as part of my Masters program at Georgia Tech, specializing in Machine Learning.
+- 🔭 Playing with supervised and unsupervised learning algorithms.
 - 📫 How to reach me: My handle is sharifmamun for almost all popular emails/social medias/services.
 
 Happy coding!
