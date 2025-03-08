@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning machine learning algorithms and models as part of my Masters program at Georgia Tech, specializing in Machine Learning.
 - 🔭 Playing with supervised and unsupervised learning algorithms.
 - 📫 How to reach me: My handle is sharifmamun for almost all popular emails/social medias/services.
+- ⚡ Fun fact: Once upon a time, I used to work on research projects and published papers even on neural networks when AI/ML was not this hot. My Google scholar profile: https://scholar.google.com/citations?user=eVw2pA4AAAAJ&hl=en
 
 Happy coding!
 <!--
