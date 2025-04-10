@@ -4,8 +4,8 @@
 - 🔭 Playing with supervised and unsupervised learning algorithms.
 - 📫 How to reach me: My handle is sharifmamun for almost all popular emails/social medias/services.
 - ⚡ Fun fact:
-      - Once upon a time, I used to work on research projects and published papers even on neural networks when AI/ML was not this hot. My Google scholar profile: https://scholar.google.com/citations?user=eVw2pA4AAAAJ&hl=en
-      - I used to attend Pycons in my 20s, received Pycon financial grants to attend Pycon 2015 (in Montreal), Pycon 2016 (in Portland). I was fortunate to have a long conversation with Guido and experienced the simplicity and humbleness of the Python creator.
+  - Once upon a time, I used to work on research projects and published papers even on neural networks when AI/ML was not this hot. My Google scholar profile: https://scholar.google.com/citations?user=eVw2pA4AAAAJ&hl=en.
+  - I used to attend Pycons in my 20s, received Pycon financial grants to attend Pycon 2015 (in Montreal), Pycon 2016 (in Portland). I was fortunate to have a long conversation with Guido and experienced the simplicity and humbleness of the Python creator.
 
 Happy coding!
 <!--
